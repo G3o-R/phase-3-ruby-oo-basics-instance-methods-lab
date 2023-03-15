@@ -254,3 +254,5 @@ The ability to define methods and behaviors in our classes for our instances
 makes Ruby classes behave not just as factories, capable of instantiating new
 individual instances, but also as a blueprint, defining what those instances can
 do.
+
+https://github.com/G3o-R/phase-3-ruby-oo-basics-instance-methods-lab
